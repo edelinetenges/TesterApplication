@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tester Application</string>
+    <string name="hi">Hi</string>
 </resources>
